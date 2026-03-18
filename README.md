@@ -103,7 +103,7 @@ In the meantime, feel free to open an issue or start a discussion.
 
 ## 📄 Licence
 
-> **TODO:** Add a `LICENCE` file. Consider [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), or [GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/) depending on how you want to share this project.
+This project is licensed under the [MIT Licence](./LICENSE) — © 2026 Tobias Faucher.
 
 ---
 
