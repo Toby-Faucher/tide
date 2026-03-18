@@ -10,9 +10,7 @@ fn bench_health_serialization(c: &mut Criterion) {
     }
 
     c.bench_function("health_serialize", |b| {
-        b.iter(|| {
-            serde_json::to_string(&HealthResponse { status: "ok" }).unwrap()
-        })
+        b.iter(|| serde_json::to_string(&HealthResponse { status: "ok" }).unwrap())
     });
 }
 
